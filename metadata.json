@@ -1,0 +1,7 @@
+{
+  "name": "Premium Car Showroom",
+  "description": "A luxury automotive experience featuring Honda and Kia vehicles with integrated booking, EMI calculators, and AI assistance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
